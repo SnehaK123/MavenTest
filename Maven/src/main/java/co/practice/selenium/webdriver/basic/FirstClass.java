@@ -1,7 +1,3 @@
-/*
- * This is test is test an test
- * 
- */
 package co.practice.selenium.webdriver.basic;
 import java.util.concurrent.TimeUnit;
 
